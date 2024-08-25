@@ -1,0 +1,14 @@
+D:\Edu\BackEnd\HackerRank\Algorithms\Warmup\bin\Debug\net8.0\Warmup.exe
+D:\Edu\BackEnd\HackerRank\Algorithms\Warmup\bin\Debug\net8.0\Warmup.deps.json
+D:\Edu\BackEnd\HackerRank\Algorithms\Warmup\bin\Debug\net8.0\Warmup.runtimeconfig.json
+D:\Edu\BackEnd\HackerRank\Algorithms\Warmup\bin\Debug\net8.0\Warmup.dll
+D:\Edu\BackEnd\HackerRank\Algorithms\Warmup\bin\Debug\net8.0\Warmup.pdb
+D:\Edu\BackEnd\HackerRank\Algorithms\Warmup\obj\Debug\net8.0\Warmup.GeneratedMSBuildEditorConfig.editorconfig
+D:\Edu\BackEnd\HackerRank\Algorithms\Warmup\obj\Debug\net8.0\Warmup.AssemblyInfoInputs.cache
+D:\Edu\BackEnd\HackerRank\Algorithms\Warmup\obj\Debug\net8.0\Warmup.AssemblyInfo.cs
+D:\Edu\BackEnd\HackerRank\Algorithms\Warmup\obj\Debug\net8.0\Warmup.csproj.CoreCompileInputs.cache
+D:\Edu\BackEnd\HackerRank\Algorithms\Warmup\obj\Debug\net8.0\Warmup.dll
+D:\Edu\BackEnd\HackerRank\Algorithms\Warmup\obj\Debug\net8.0\refint\Warmup.dll
+D:\Edu\BackEnd\HackerRank\Algorithms\Warmup\obj\Debug\net8.0\Warmup.pdb
+D:\Edu\BackEnd\HackerRank\Algorithms\Warmup\obj\Debug\net8.0\Warmup.genruntimeconfig.cache
+D:\Edu\BackEnd\HackerRank\Algorithms\Warmup\obj\Debug\net8.0\ref\Warmup.dll
