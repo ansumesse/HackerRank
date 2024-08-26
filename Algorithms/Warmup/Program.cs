@@ -4,8 +4,9 @@
     {
         static void Main(string[] args)
         {
+            plusMinus(new List<int>() { -4, 3, -9, 0, 4, 1 });
 
-            
+            Console.ReadKey();
         }
         public static List<int> compareTriplets(List<int> a, List<int> b)
         {
@@ -48,6 +49,24 @@
                 }
             }
             return Math.Abs(sumSecDiag + sumPrimDiag);
+        }
+        public static void plusMinus(List<int> arr)
+        {
+            float size = arr.Count;
+            int nPos = 0, nNeg = 0, nZero = 0;
+
+            foreach (int n in arr)
+            {
+                if (n > 0)
+                    nPos++;
+                else if (n < 0)
+                    nNeg++;
+                else
+                    nZero++;
+            }
+            Console.WriteLine($"{nPos / size:N6}");
+            Console.WriteLine($"{nNeg / size:N6}");
+            Console.WriteLine($"{nZero / size:N6}");
         }
     }
 }

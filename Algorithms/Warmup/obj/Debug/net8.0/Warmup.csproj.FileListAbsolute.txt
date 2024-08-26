@@ -12,3 +12,4 @@ D:\Edu\BackEnd\HackerRank\Algorithms\Warmup\obj\Debug\net8.0\refint\Warmup.dll
 D:\Edu\BackEnd\HackerRank\Algorithms\Warmup\obj\Debug\net8.0\Warmup.pdb
 D:\Edu\BackEnd\HackerRank\Algorithms\Warmup\obj\Debug\net8.0\Warmup.genruntimeconfig.cache
 D:\Edu\BackEnd\HackerRank\Algorithms\Warmup\obj\Debug\net8.0\ref\Warmup.dll
+D:\Edu\BackEnd\HackerRank\Algorithms\Warmup\obj\Debug\net8.0\Warmup.sourcelink.json
