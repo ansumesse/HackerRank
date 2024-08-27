@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            staircase(6);
+            miniMaxSum(new List<int>() { 1, 2, 3, 4 ,5 });
             Console.ReadKey();
         }
         public static List<int> compareTriplets(List<int> a, List<int> b)
@@ -81,6 +81,27 @@
                 }
                 Console.WriteLine();
             }
+        }
+        public static void miniMaxSum(List<int> arr)
+        {
+            long minSum = long.MaxValue;
+            long maxSum = long.MinValue;
+            for (int i = 0; i < arr.Count; i++)
+            {
+                long Temp = 0;
+                
+                for (int j = 0; j < arr.Count; j++)
+                {
+                    if (j == i)
+                        continue;
+                    Temp += arr[j];
+                }
+                if (Temp < minSum)
+                    minSum = Temp;
+                if (Temp > maxSum)
+                    maxSum = Temp;
+            }
+            Console.WriteLine($"{minSum} {maxSum}");
         }
     }
 }
