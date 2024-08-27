@@ -4,8 +4,7 @@
     {
         static void Main(string[] args)
         {
-            plusMinus(new List<int>() { -4, 3, -9, 0, 4, 1 });
-
+            staircase(6);
             Console.ReadKey();
         }
         public static List<int> compareTriplets(List<int> a, List<int> b)
@@ -67,6 +66,21 @@
             Console.WriteLine($"{nPos / size:N6}");
             Console.WriteLine($"{nNeg / size:N6}");
             Console.WriteLine($"{nZero / size:N6}");
+        }
+        public static void staircase(int n)
+        {
+            for (int i = 1; i <= n; i++)
+            {
+                for (int j = 0; j < n-i; j++)
+                {
+                    Console.Write(" ");
+                }
+                for (int j = 0; j < i; j++)
+                {
+                    Console.Write("#");
+                }
+                Console.WriteLine();
+            }
         }
     }
 }
