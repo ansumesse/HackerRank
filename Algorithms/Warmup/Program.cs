@@ -103,5 +103,16 @@
             }
             Console.WriteLine($"{minSum} {maxSum}");
         }
+        public static int birthdayCakeCandles(List<int> candles)
+        {
+            int tollest = candles.Max();
+            int count = 0;
+            for (int i = 0; i < candles.Count; i++)
+            {
+                if (candles[i] == tollest)
+                    count++;
+            }
+            return count;
+        }
     }
 }
