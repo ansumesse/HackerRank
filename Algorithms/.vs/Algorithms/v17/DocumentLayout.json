@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\Edu\\BackEnd\\HackerRank\\Algorithms\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6B12713F-0AFC-459F-A702-4FCA39A4F86D}|Implementation\\Implementation.csproj|d:\\edu\\backend\\hackerrank\\algorithms\\implementation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B12713F-0AFC-459F-A702-4FCA39A4F86D}|Implementation\\Implementation.csproj|solutionrelative:implementation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D898C30D-AE43-402C-A16D-883CE3EF7E2F}|Warmup\\Warmup.csproj|d:\\edu\\backend\\hackerrank\\algorithms\\warmup\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D898C30D-AE43-402C-A16D-883CE3EF7E2F}|Warmup\\Warmup.csproj|solutionrelative:warmup\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -20,14 +24,26 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Edu\\BackEnd\\HackerRank\\Algorithms\\Implementation\\Program.cs",
+              "RelativeDocumentMoniker": "Implementation\\Program.cs",
+              "ToolTip": "D:\\Edu\\BackEnd\\HackerRank\\Algorithms\\Implementation\\Program.cs",
+              "RelativeToolTip": "Implementation\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAcwB8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T09:49:01.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "D:\\Edu\\BackEnd\\HackerRank\\Algorithms\\Warmup\\Program.cs",
               "RelativeDocumentMoniker": "Warmup\\Program.cs",
               "ToolTip": "D:\\Edu\\BackEnd\\HackerRank\\Algorithms\\Warmup\\Program.cs",
               "RelativeToolTip": "Warmup\\Program.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAmwGkAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAH8AAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-25T05:25:01.874Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-25T05:25:01.874Z"
             }
           ]
         }

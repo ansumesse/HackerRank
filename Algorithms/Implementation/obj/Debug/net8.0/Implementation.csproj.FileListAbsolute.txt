@@ -1,0 +1,15 @@
+D:\Edu\BackEnd\HackerRank\Algorithms\Implementation\bin\Debug\net8.0\Implementation.exe
+D:\Edu\BackEnd\HackerRank\Algorithms\Implementation\bin\Debug\net8.0\Implementation.deps.json
+D:\Edu\BackEnd\HackerRank\Algorithms\Implementation\bin\Debug\net8.0\Implementation.runtimeconfig.json
+D:\Edu\BackEnd\HackerRank\Algorithms\Implementation\bin\Debug\net8.0\Implementation.dll
+D:\Edu\BackEnd\HackerRank\Algorithms\Implementation\bin\Debug\net8.0\Implementation.pdb
+D:\Edu\BackEnd\HackerRank\Algorithms\Implementation\obj\Debug\net8.0\Implementation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Edu\BackEnd\HackerRank\Algorithms\Implementation\obj\Debug\net8.0\Implementation.AssemblyInfoInputs.cache
+D:\Edu\BackEnd\HackerRank\Algorithms\Implementation\obj\Debug\net8.0\Implementation.AssemblyInfo.cs
+D:\Edu\BackEnd\HackerRank\Algorithms\Implementation\obj\Debug\net8.0\Implementation.csproj.CoreCompileInputs.cache
+D:\Edu\BackEnd\HackerRank\Algorithms\Implementation\obj\Debug\net8.0\Implementation.sourcelink.json
+D:\Edu\BackEnd\HackerRank\Algorithms\Implementation\obj\Debug\net8.0\Implementation.dll
+D:\Edu\BackEnd\HackerRank\Algorithms\Implementation\obj\Debug\net8.0\refint\Implementation.dll
+D:\Edu\BackEnd\HackerRank\Algorithms\Implementation\obj\Debug\net8.0\Implementation.pdb
+D:\Edu\BackEnd\HackerRank\Algorithms\Implementation\obj\Debug\net8.0\Implementation.genruntimeconfig.cache
+D:\Edu\BackEnd\HackerRank\Algorithms\Implementation\obj\Debug\net8.0\ref\Implementation.dll

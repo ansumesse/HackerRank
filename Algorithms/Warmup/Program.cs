@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            miniMaxSum(new List<int>() { 1, 2, 3, 4 ,5 });
+            Console.WriteLine(timeConversion("12:05:45AM"));
             Console.ReadKey();
         }
         public static List<int> compareTriplets(List<int> a, List<int> b)
@@ -113,6 +113,19 @@
                     count++;
             }
             return count;
+        }
+        public static string timeConversion(string s)
+        {
+            var time = s.Split(':');
+            int hour = int.Parse(time[0]);
+            int min = int.Parse(time[1]);
+            int sec = int.Parse(time[2].Substring(0, 2));
+            string amPm = time[2].Substring(2, 2);
+            if (amPm == "PM" && hour != 12)
+                hour += 12;
+            if (amPm == "AM" && hour == 12)
+                hour = 0;
+            return ($"{hour:00}:{min:00}:{sec:00}");
         }
     }
 }
